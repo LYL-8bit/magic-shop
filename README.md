@@ -11,7 +11,7 @@
 
 ## 游戏截图
 
-> （可在此处放置截图）
+> 
 <img width="2264" height="1269" alt="屏幕截图 2026-05-01 184432" src="https://github.com/user-attachments/assets/1a192ffc-b5ab-421a-8395-f3e4635a78df" />
 ---
 
